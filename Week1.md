@@ -1,6 +1,6 @@
 ## Goal 1
 
-**Debugging**
+# Debugging
 
 - it's important to have bug fee code
 
@@ -19,12 +19,12 @@ I managed to finish all the challenges. Doing that I definitely get to understan
 
 ## Goal 2
 
-**Practice TDD**
+# Practice TDD
 
 - it's essential skill for being sure your code is working as expected.
 - Helps to have bug free code.
 
-  2.1 Understand better how rising errors and exceptions
+  2.1 Understand better how to raise errors and exceptions
 
 ## Plan
 
