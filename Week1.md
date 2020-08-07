@@ -24,11 +24,13 @@ I managed to finish all the challenges. Doing that I definitely get to understan
 - it's essential skill for being sure your code is working as expected.
 - Helps to have bug free code.
 
-  2.1 Understand better how to raise errors and exceptions
+  2.1 :white_check_mark: ~~Understand better how to raise errors and exceptions~~
+  2.2 Understand better the mocking process in Rspec
 
 ## Plan
 
-1. :white_medium_square: - Attend the TDD Workshop
+1. :white_check_mark: - ~~Attend the TDD Workshop~~
 2. :white_medium_square: - Re do the exercises from the workshop
-3. :white_medium_square: - Go back and re do exercise 12 from Boris Bike challenge.
+3. :white_check_mark: - ~~Go back and re do exercise 12 from Boris Bike challenge.~~
 4. :white_medium_square: - Read the materials about TDD in week 1 outlines
+5. :white_medium_square: - Read about doubles (mocking) in Rspec
