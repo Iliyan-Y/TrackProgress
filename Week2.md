@@ -1,6 +1,6 @@
 ## Goal 1
 
-# I will use all of week 1's skills to become better at them on them
+# I will use all of week 1's skills to become better at them
 
     - I can TDD anything
     - I can program fluently
