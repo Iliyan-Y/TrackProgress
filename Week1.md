@@ -25,6 +25,7 @@ I managed to finish all the challenges. Doing that I definitely get to understan
 - Helps to have bug free code.
 
   2.1. :white_check_mark: ~~Understand better how to raise errors and exceptions~~
+
   2.2. Understand better the mocking process in RSpec
 
 ## Plan
@@ -34,7 +35,7 @@ I managed to finish all the challenges. Doing that I definitely get to understan
 3. :white_check_mark: - ~~Go back and re do exercise 12 from Boris Bike challenge.~~
 4. :white_medium_square: - Read the materials about TDD in week 1 outlines
 5. :white_check_mark: - ~~Read about doublers (mocking) in RSpec~~
-   5.1. Quick verification:
-   - Mocks and stubs are not the same thing
-   - Stubs (doublers) are used when we want to receive predicted output
-   - It's good practice to use stubs and mocks **to isolate unit tests**, no matter what happen to the relevant objet the test will pass.
+   - 5.1. Quick verification:
+     - Mocks and stubs are not the same thing
+     - Stubs (doublers) are used when we want to receive predicted output
+     - It's good practice to use stubs and mocks **to isolate unit tests**, no matter what happen to the relevant objet the test will pass.
