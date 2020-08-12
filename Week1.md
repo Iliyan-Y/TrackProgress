@@ -39,3 +39,9 @@ I managed to finish all the challenges. Doing that I definitely get to understan
      - Mocks and stubs are not the same thing
      - Stubs (doublers) are used when we want to receive predicted output
      - It's good practice to use stubs and mocks **to isolate unit tests**, no matter what happen to the relevant objet the test will pass.
+
+## Self-Evaluation
+
+I feel much more confident about writing the tests for RSpec and I'm understanding better the concept of TDD.
+I feel confident using simple test doubles for creating isolated unit tests, and the purpose of it. I need to
+have a look how to use them for more complicated cases and understand better the difference between doubles,stubs and mocks.
